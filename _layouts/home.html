@@ -1,0 +1,79 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <h1>{{ site.course_name }} <span style="font-size: 20px;color: #0006;">/ {{ site.course_semester }} </span></h1>
+    <h3><i>Course Instructor</i>: Prashant Shekhar, PhD</h3>
+    <h3><i>Contact</i>:</h3>
+    <ul>
+        <li><i>Email</i>: <a href = "mailto:prashant.shekhar@erau.edu?subject = Feedback&body = Message">prashant.shekhar@erau.edu</a> </li>
+        <li><i>Office</i>: Bldg COAS Rm. 301.26</li>
+    </ul>
+    {% include announcements.html %}
+    <h3><strong>Class Details</strong></h3>
+    <ul>
+        <li><i>Class time</i>: MWF 10:00 AM to 10:50 AM</li>
+        <li><i>Class venue</i>: Bldg COAS Rm. 304</li>
+        <li><i>Office hours</i>: MWF 12:00 PM to 1:00 PM</li>
+        <li><i>Office hours Venue</i>: Bldg COAS Rm. 301.26</li>
+        <li><a href = "static_files/presentations/MA440_course_description.pdf" target = "_blank"><i>Course description (pdf)</i></a></li>
+        <li><a href = "static_files/presentations/DS440_course_syllabus2.pdf" target = "_blank"><i>Tentative schedule (pdf)</i></a></li>
+
+    </ul>
+
+    <br />
+
+    <h3><strong>Course Description</strong></h3>
+    <p>{{ site.course_description }}</p>
+
+    {{ content }}
+
+    <!--
+
+    {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
+    <h2>Previous Offerings</h2>
+    <ul class="previous-offerings">
+    {% for offer in site.data.previous_offering.offerings %}
+    <li><a href="{{ offer.url }}">{{offer.title}}</a></li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+
+    <br>
+    <div>
+        <div style="width:35%; float: left">
+
+            <div class="profile-pic-gallary ">
+                <h2>Instructor</h2>
+                {% for ins in site.data.people.instructors %}
+                <div class="image--cover-container">
+                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ins.webpage %}
+                    <p><a href="{{ ins.webpage }}">{{ins.name}}</a></p>
+                    {% else %}
+                    <p>{{ins.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+        <div style="width:65%; float: left">
+            <div class="profile-pic-gallary ">
+                <h2>Grader</h2>
+                {% for ta in site.data.people.teaching_assistants %}
+                <div class="image--cover-container">
+                    <img src="{{ta.profile_pic | prepend: site.baseurl }}" class="image--cover">
+                    {% if ta.webpage %}
+                    <p><a href="{{ ta.webpage }}">{{ta.name}}</a></p>
+                    {% else %}
+                    <p>{{ta.name}}</p>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>-->
+</div>
