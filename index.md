@@ -5,7 +5,7 @@ This is a project-based course. Broadly, major topics covered in this course inc
 <ol>
 <li>Linear Data Compression</li>
 <li>Non-Linear Data Compression</li>
-<li>Computing for Neural Networks</li>
+<li>Computing for Data Compression</li>
 <li>Deep Generative Models</li>
 </ol>
 
@@ -18,9 +18,6 @@ The study material for the course would be provided to the students in the form 
 <li>Diederik P. Kingma and Max Welling, An Introduction to Variational Autoencoders, 2019 <a href = "https://arxiv.org/pdf/1906.02691.pdf" target = "_blank">Link</a></li>
 <li><strong>Python and Machine Learning</strong>: Aurelien Geron, Hands-on Machine Learning with Scikit-learn, Keras & TensorFlow. O’Reilly, second edition, September 2019.</li>
 </ol>
-
-In class, I will be broadly following the excellent (chapter-wise) presentation slides prepared by the main text authors and available at <a href = "https://www-users.cse.umn.edu/~kumar001/dmbook/index.php" target="_blank">Link</a>. Additionally, I will provide notes and jupyter notebooks related to concepts discussed in class.
-
 
 <h3><strong>Grading</strong></h3>
 Your course grade will be determined as follows:
