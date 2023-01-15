@@ -4,9 +4,9 @@ title: Materials
 permalink: /materials/
 ---
 
-<img src = "../_images/cover5.png" width="150" align="right">
-<img src = "../_images/cover0.png" width="10" align="right">
 <img src = "../_images/cover6.png" width="101" align="right">
+<img src = "../_images/cover0.png" width="10" align="right">
+<img src = "../_images/cover5.png" width="101" align="right">
 
 
 
