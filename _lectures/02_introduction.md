@@ -4,11 +4,9 @@ date: 2023-01-17T8:00:00
 title: Lecture 2 Singular Value Decomposition (SVD)
 tldr: "We will go over basics of SVD"
 thumbnail: /static_files/presentations/lec.png
-<!--
 links: 
-    - url: /static_files/presentations/1_Lec.zip
+    - url: /static_files/presentations/2_Lec.zip
       name: Notes
--->
 ---
 
 **Suggested Readings:**
