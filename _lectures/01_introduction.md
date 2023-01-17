@@ -6,7 +6,7 @@ tldr: "We will go over course policies, a brief description and introduction"
 thumbnail: /static_files/presentations/lec.png
 links: 
     - url: /static_files/presentations/1_Lec.zip
-      name: Slides
+      name: Notes
 ---
 <!--
 **Suggested Readings:**
