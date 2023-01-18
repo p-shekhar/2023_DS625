@@ -5,7 +5,7 @@ title: Lecture 2 Singular Value Decomposition (SVD)
 tldr: "We will go over basics of SVD"
 thumbnail: /static_files/presentations/lec.png
 links: 
-    - url: /static_files/presentations/2_Lec.zip
+    - url: /static_files/presentations/2_Jan_17.pdf
       name: class notes
 ---
 
