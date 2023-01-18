@@ -6,7 +6,7 @@ tldr: "We will go over basics of SVD"
 thumbnail: /static_files/presentations/lec.png
 links: 
     - url: /static_files/presentations/2_Jan_17.pdf
-      name: class notes
+      name: Notes
 ---
 
 **Suggested Readings:**
