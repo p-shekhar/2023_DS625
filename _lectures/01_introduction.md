@@ -8,7 +8,7 @@ links:
     - url: /static_files/presentations/1_Jan_12.pdf
       name: Notes
 ---
-<!--
+<!--ssd
 **Suggested Readings:**
 - [Readings 1](http://example.com)
 - [Readings 2](http://example.com)-->
