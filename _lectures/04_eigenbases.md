@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2023-01-24T8:00:00
-title: Lecture 4 Eigenbases
+title: Lecture 4 Image Encoding
 tldr: "Here we will look at computation of bases matrix for face images"
 thumbnail: /static_files/presentations/lec.png
 links: 
