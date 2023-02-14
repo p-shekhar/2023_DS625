@@ -10,5 +10,8 @@ links:
 ---
 **Suggested Readings:**
 - [Autoencoders: Convolutional layers (Colab)](https://colab.research.google.com/drive/1Dh9y9d_76K7VPQyt6YYOlHsUYHT7w6KQ?usp=sharing)
+- [Reading 1](https://github.com/vdumoulin/conv_arithmetic)
+- [Reading 2](https://github.com/aqeelanwar/conv_layers_animation)
+- [Reading 3](https://thanos.charisoudis.gr/blog/a-simple-conv2d-dimensions-calculator-logger)
 
 
