@@ -9,6 +9,6 @@ links:
       name: Notes
 ---
 **Suggested Readings:**
-- [Variational Autoencoders (Colab)](https://colab.research.google.com/drive/1rBxHNQEfmX-cjmDQo62lb2WlcctJD4w_?usp=sharing)
+- [Variational Autoencoders: Factorized Cov (Colab)](https://colab.research.google.com/drive/1rBxHNQEfmX-cjmDQo62lb2WlcctJD4w_?usp=sharing)
 
 
